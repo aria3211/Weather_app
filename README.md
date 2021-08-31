@@ -2,12 +2,12 @@
 
 **Hi every body this app Developed with Python**
 
-## Librarys you need:
-* tkinter (if you use python 3.9 and to the top you should install this library) 
+## Librarys you needed:
+* tkinter (if you use python 3.9 and to the top you should install this library)
 ```bash
 pip install tk
 ```
-* bs4 
+* bs4
 ```bash
 pip install beautifulsoup4
 ```
@@ -22,4 +22,3 @@ pip install Pillow
 ```bash
 pip install requests
 ```
-

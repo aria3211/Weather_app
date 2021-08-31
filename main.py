@@ -19,7 +19,7 @@ fream2.place(x=0,y=200)
 fream3 = tk.Frame(form,bg='#33FFDD',width=300,height=100)
 fream3.place(x=300,y=200)
 
-file = 'cloud1.gif'
+file = 'Images/cloud1.gif'
 info = Image.open(file)
 frames = info.n_frames
 im = [tk.PhotoImage(file = file, format=f'gif -index {i}') for i in range(frames)]
